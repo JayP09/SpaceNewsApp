@@ -1,6 +1,6 @@
 # Space News App
 
-The Space News App was created using React and TailwindCSS. This project taught me more about the React useEffect, fetch, and working with APIs.
+The Space News App is created using React and TailwindCSS. This project taught me more about the React useEffect, fetch, and working with APIs.
 
 # Demo: 
 
